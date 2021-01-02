@@ -63,11 +63,11 @@ module.exports = {
     },
     {
       name: "React.js",
-      url: "https://www.behance.net/",
+      url: "https://reactjs.org/",
     },
     {
       name: "Photoshop",
-      url: "https://medium.com/",
+      url: "https://www.adobe.com/photoshop/online/photo-editing.html",
     },
   ],
 
